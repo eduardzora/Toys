@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "titulo": "SpiderMan",
+    "categoria": "Superheroes",
+    "comentario": "Al presionar el cinturón hará sonidos de batalla y se iluminará."
+  },
+  {
+    "id": "2",
+    "titulo": "Nerf N-Strike",
+    "categoria": "Shoot",
+    "comentario": "Firestrike Blaster es un lanzador de la línea Elite de Nerf N-Strike, con luz para enfocar tus blancos."
+  },
+  {
+    "id": "3",
+    "titulo": "Monopoly",
+    "categoria": "Juego de mesa",
+    "comentario": "Al presionar el cinturón hará sonidos de batalla y se iluminará."
+    
+  },
+  {
+    "id": "4",
+    "titulo": "Lego",
+    "categoria": "Imaginación",
+    "comentario": "Explora la libre creatividad y haz increíbles creaciones."
+  },
+  {
+    "id": "5",
+    "titulo": "Hulk",
+    "categoria": "Superheroes",
+    "comentario": "Fuerza impresionante."
+  },
+  {
+    "id": "6",
+    "titulo": "HotWkeel",
+    "categoria": "Carrera",
+    "comentario": "Ganame si puedes."
+  },
+  {
+    "id": "7",
+    "titulo": "Barbie",
+    "categoria": "Imaginación",
+    "comentario": "Crea tu mundo."
+  }
+]
